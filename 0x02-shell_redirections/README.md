@@ -1,2 +1,2 @@
-Shell input/output redirection
+ Shell input/output redirection
 
